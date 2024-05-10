@@ -1,6 +1,6 @@
 2d platformer game Created based on Tutorial video of "Gold Metal" on Youtube.
 
-While making this by following the tutorial, I learned basics of how Unity work.
+This is my fist Unity project done. By following the tutorial, I learned basics of how Unity work, like how script works, how to use scripts as component of game objects, how to move&interact with other components of the game object from scripts, etc.
 
 Also, I added some of my own unique functions, such as time limit per stages, background music, etc.
 
